@@ -4,3 +4,4 @@ Dataset [At Kaggle ]:= https://www.kaggle.com/datasets/sshikamaru/fruit-recognit
 ## Screenshots
 ![Screenshot (79)](https://github.com/user-attachments/assets/5de72465-ce65-4f9c-acbd-38b62f0a8220)
 
+![Screenshot (80)](https://github.com/user-attachments/assets/b06e7e90-4bdb-4519-bd6e-620770aab760)
